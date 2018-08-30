@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\DroidWorkspace\\AlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alrm.mp3",
+        "source": "D:\\DroidWorkspace\\AlarmManager\\app\\src\\main\\res\\raw\\alrm.mp3"
+    },
+    {
+        "merged": "D:\\SampleWorkspace\\mWorkspace\\AlarmManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\alrm.mp3",
+        "source": "D:\\SampleWorkspace\\mWorkspace\\AlarmManager\\app\\src\\main\\res\\raw\\alrm.mp3"
+    }
+]

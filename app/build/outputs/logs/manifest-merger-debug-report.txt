@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:10:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.androiddevs.MainActivity
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:16:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:22:27-74
+receiver#com.androiddevs.AlarmReceiver
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:26:9-30:20
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:26:19-63
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:27:13-29:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:28:17-79
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:28:25-76
+receiver#com.androiddevs.DeviceBootReceiver
+ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:enabled
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml:34:13-47
+uses-sdk
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		ADDED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+		INJECTED from D:\@DilipWorkspace\AlarmManager\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\85581a57444236d197c01752da2b64c4\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\f43320e8ce391500bd856ba001d28fd2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\4927d659a7e07375ad704cc1b0aeb044\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\f3aa31e13c8050f8e8edd1eeebec8ffc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\f0cf1e8a96a58368be10235b862c0e5c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\47aba97450bcf6c02bafe7efd3846154\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\2e7fa910ac8fdbd02132a4cc29bc795f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\2f9e197a2f2019c5358c31ee9ff12847\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ADMIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\b65a5c1a07b89e54e0d7a3ee6cceab17\AndroidManifest.xml:26:9-47
